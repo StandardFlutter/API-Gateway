@@ -1,2 +1,2 @@
 # Plus-Post
-**Plugin para WordPress**
+Plugin para WordPress
