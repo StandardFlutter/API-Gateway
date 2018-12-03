@@ -5,8 +5,8 @@ Plugin Name:  Plus Post - Posts Relacionados
 Plugin URI:   https://infoenter.com.br/plugins/plus-post/
 Description:  Plugin para criar automaticamente links relacionados nos posts.
 Version:      1.0.0
-Author:       Info Enter
-Author URI:   https://infoenter.com.br/
+Author:       Fernando Britto
+Author URI:   http://fernandobritto.com.br/
 License:      GPL2
 License URI:  https://www.gnu.org/licenses/gpl-2.0.html
 Text Domain:  wporg
