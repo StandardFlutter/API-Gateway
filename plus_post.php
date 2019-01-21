@@ -2,7 +2,7 @@
 
 /*
 Plugin Name:  Plus Post - Posts Relacionados
-Plugin URI:   https://infoenter.com.br/plugins/plus-post/
+Plugin URI:   https://brasilwebsolutions.com.br/plugins/plus-post/
 Description:  Plugin para criar automaticamente links relacionados nos posts.
 Version:      1.0.0
 Author:       Fernando Britto
@@ -34,7 +34,7 @@ class options_page {
 	 }
 
 	 function settings_page() {
-		 echo 'Plus Post da Info Enter';
+		 echo 'Plus Post da Brasil Web Solutions';
 	 }
  }
 
