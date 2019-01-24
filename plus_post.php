@@ -6,7 +6,7 @@ Plugin URI:   https://brasilwebsolutions.com.br/plugins/plus-post/
 Description:  Plugin para criar automaticamente links relacionados nos posts.
 Version:      1.0.0
 Author:       Fernando Britto
-Author URI:   http://fernandobritto.com.br/
+Author URI:   http://www.fernandobritto.com.br/
 License:      GPL2
 License URI:  https://www.gnu.org/licenses/gpl-2.0.html
 Text Domain:  wporg
