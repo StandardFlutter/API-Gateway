@@ -1,3 +1,6 @@
 "use strict";
 
-console.log(" teste Babel");
+var colores = ['Rojo', 'Verde']; // Adicionar valor ao Array
+
+colores.push('Azul');
+console.log(colores);
