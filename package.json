@@ -1,13 +1,12 @@
 {
-	"devDependencies": {
-		"@babel/cli": "^7.2.3",
-		"@babel/core": "^7.3.4",
-		"@babel/preset-env": "^7.3.4"
-	},
-
-	"scripts":{
-		"build":"babel src -d output --watch"
-	}
-
-
+  "name": "Project-2",
+  "version": "1.0.0",
+  "description": "Brasil Web Solutions ",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {}
+  
 }
