@@ -1,2 +1,1 @@
-# Plus-Post
-**Plugin para WordPress**
+# Project 2
