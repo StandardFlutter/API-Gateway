@@ -1,5 +1,5 @@
 {
-  "name": "Project-2",
+  "name": "project-2",
   "version": "1.0.0",
   "description": "Brasil Web Solutions ",
   "main": "index.html",
@@ -8,5 +8,4 @@
     "build": "parcel build index.html"
   },
   "dependencies": {}
-  
 }
