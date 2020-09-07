@@ -1,0 +1,22 @@
+// Not Real
+// use only in development and testing
+
+
+nameApplication: API Gateway
+hostApplication: http://localhost
+
+config:
+  port: 8000
+  enabledMorgan: true
+
+security:
+  enabledJSON: true
+  enabledHelmet: true
+
+services:
+  - nameRoute: social
+    url: http://localhost:8080
+  - nameRoute: website
+    url: http://localhost:8084
+  - nameRoute: tools
+    url: http://localhost:8085
